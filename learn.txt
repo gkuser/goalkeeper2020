@@ -1,3 +1,5 @@
 i love you
 it is a joke
+<<<<<<< 
 master branch	`
+>>>>>>> featurel
